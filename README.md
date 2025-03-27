@@ -46,8 +46,3 @@ flutter run
 📧 Email: jaffer1272hussain@gmail.com
 
 ⚡ DostCare – Because Every Mind Matters!
-
-
-
-
->>>>>>> e3f1d8d314828cf8c08d79801ceff6bb4feb80bf
