@@ -28,14 +28,18 @@ Follow these steps to set up DostCare on your local machine:
 ```sh
 git clone https://github.com/JAFFER1272HUSSAIN/DostCare.git
 cd DostCare
-Install Dependencies
+```
+### 2️⃣ **Install Dependencies**
+```sh
 flutter pub get
-Run the App
+```
+### 3️⃣ **Run the App**
+```sh
 flutter run
+```
 (Make sure you have Flutter SDK installed and configured.)
-
 ---
-###📬 **Contact**
+### 📬 **Contact**
 💡 Have suggestions or feedback? Reach out!
 📧 Email: jaffer1272hussain@gmail.com
 ⚡ DostCare – Because Every Mind Matters!
