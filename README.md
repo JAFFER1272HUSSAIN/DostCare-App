@@ -40,8 +40,11 @@ flutter run
 (Make sure you have Flutter SDK installed and configured.)
 ---
 ### 📬 **Contact**
+
 💡 Have suggestions or feedback? Reach out!
+
 📧 Email: jaffer1272hussain@gmail.com
+
 ⚡ DostCare – Because Every Mind Matters!
 
 
